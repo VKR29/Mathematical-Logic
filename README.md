@@ -5,7 +5,7 @@ Lecture notes, solved past problems and practice tests for the course *Mathemati
 ## Contents
 
 | File | What it is |
-|---|---|---|
+|---|---|
 | `Notes.pdf` | Lecture notes for the whole course |
 | `PYQs Solutions.pdf` | 126 problems from past homework, quizzes and exams, with full solutions |
 | `Mock Tests/Logic_MockTest1.pdf` – `Logic_MockTest4.pdf` | Four mock tests, 10 problems and 80 marks each, without solutions |
