@@ -1,6 +1,6 @@
 # Mathematical Logic
 
-Lecture notes, solved past problems and practice tests for the course *Mathematical Logic* at Chennai Mathematical Institute (CMI), taught by M. Praveen. Everything here was written by Vardhan Kumar Ray, a teaching assistant for the course. It is a supplement, not an official course document, and it has not been checked by the instructor.
+Lecture notes, solved past problems and practice tests for the course *Mathematical Logic* at Chennai Mathematical Institute (CMI), taught by M. Praveen. These materials are created by Vardhan Kumar Ray, a teaching assistant for the course during Aug - Nov 2026. It is a supplement, not an official course document, and it has not been checked by the instructor.
 
 ## Contents
 
